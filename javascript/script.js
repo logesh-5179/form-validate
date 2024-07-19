@@ -26,7 +26,7 @@ else if(add==null || add==""){
     return false; 
   }  
 } 
-alert("Form Submitted Successfully");
+
 
 
 
